@@ -2,15 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
+url: https://aneikasimmons.com/
+title: Dr. Aneika Simmons
+email: als019@shsu.edu
+author: Aneika
 description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
+  Dr. Aneika Simmons, Professor, Speaker, Author
+copyright: 'Copyright &copy; Aneika Simmons. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -27,8 +25,8 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/aneika?lang=en
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/aneikasimmons
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/in/aneika-simmons
