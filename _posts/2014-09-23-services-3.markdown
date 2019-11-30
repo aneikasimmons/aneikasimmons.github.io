@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Writing
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Dr. Simmons has written numerous articles on the topics of business and technology. She is skilled at taking complex ideas and explaining them in simple terms that everyone can undersand. Dr. Simmons can create content for your journal, newspaper, or periodical.
