@@ -7,7 +7,7 @@ This site is based on a modified Jekyll theme based on [landing-page bootstrap t
 You can fork this repository to use as a template for your own site.
 
 ## View Online
-You can view this site online [here](https://aneikasimmons.com/#about)
+You can view this site online [here](https://aneikasimmons.com/#about).
 
 
 ## License
