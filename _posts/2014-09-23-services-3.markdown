@@ -5,4 +5,5 @@ category: Services
 title: Writing
 description: |
 ---
+
 Dr. Simmons has written numerous articles on the topics of business and technology. She is skilled at taking complex ideas and explaining them in simple terms that everyone can undersand. Dr. Simmons can create content for your journal, newspaper, or periodical.
