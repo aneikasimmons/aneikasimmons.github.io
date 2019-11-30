@@ -15,7 +15,7 @@ You can fork this repository to use as a template for your own site.
 This site uses the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
 
 ## View Online
-You can view this site online [here](https://aneikasimmons.com/#about).
+You can view this site online [here](https://aneikasimmons.com).
 
 
 ## License
